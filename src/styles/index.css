@@ -51,3 +51,17 @@
     width: 300px;
     height: 300px;
 }
+
+.vineta{
+    position:relative;
+    width: 300px;
+    height: 100px;
+    box-shadow: 
+      0 0 0 1px black,
+      0 0 0 6px white,
+      0 0 0 7px black;
+  }
+
+  .centered{
+    margin-left: 500px;
+  }
