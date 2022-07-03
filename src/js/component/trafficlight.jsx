@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import Akitu from "../../img/akitu-kart.png";
+import Fondito from "../../img/fondito.jpg";
 
 const TrafficLight = () => {
   const [color, setColor] = useState("");
